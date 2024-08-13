@@ -1,9 +1,9 @@
 {
-  "name":"BONIPHACE-MD UPDATE BY ME",
-  "description":"Best WhatsApp Bot Developed By Boniphace Tech Contact me 255716661569, Thank you for choose BONIPHACE-MD",
+  "name":"MSELA-CHUI-V2 UPDATE BY ME",
+  "description":"Best WhatsApp Bot Developed By Mselachui Tech Contact me 260774358600, Thank you for choose MSELA-CHUI-V2",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/f660abdbefbae32daeb81.jpg",
-  "repository":"https://github.com/boniphace478/BONIPHACE-MD",
+  "logo":"https://telegra.ph/file/b5e8a490b30177df71db0.jpg",
+  "repository":"https://github.com/Mselachui03/MSELA-CHUI-V2",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BONIPHACE-MD",
+      "value":"MSELA-CHUI-V2",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/f660abdbefbae32daeb81.jpg",
+      "value":"https://telegra.ph/file/b5e8a490b30177df71db0.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BONIPHACE TECH👑"
+    "value": "MSELACHUI TECH🐯"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255716661569"
+    "value": "260774358600"
 	  
   },
     "WARN_COUNT":
