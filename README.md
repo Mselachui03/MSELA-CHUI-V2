@@ -95,7 +95,10 @@
 ![Visitor Count](https://profile-counter.glitch.me/Mselachui03/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></
-## THANKS = MY SELF 🥱
+## THANKS = MY SELF 
+
+
+## (GLORY TO GOD)
 
 ## Support
 
