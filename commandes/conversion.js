@@ -70,7 +70,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"Boniphace-Md" ,
+      pack:"msela-chui-v2" ,
       author: nomAuteurMessage,
       type:
         arg.includes("crop") || arg.includes("c")
@@ -94,7 +94,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"Boniphace-Md", // pack stick
+      pack:"msela-chui-v2", // pack stick
       author:  nomAuteurMessage, // name of the author of the stick
       type:
         arg.includes("-r") || arg.includes("-c")
@@ -252,7 +252,7 @@ zokou({ nomCom: "write", categorie: "Conversion", reaction: "👨🏿‍💻" },
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: 'Hacking-Md',
+      author: 'msela-chui-v2',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
