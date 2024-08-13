@@ -99,7 +99,7 @@
 
 ## Support
 
-SUPPORT CHANNEL: <a href= "(https://whatsapp.com/channel/0029VakhqAaLtOjBJOL9Wn1q)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VakhqAaLtOjBJOL9Wn1q"><img src="https://img.shields.io/badge/Join Official channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/Mselachui03)
