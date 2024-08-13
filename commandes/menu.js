@@ -66,26 +66,26 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏━━ BONIPHACE MD ━━┓
+┏━━ MSELA-CHUI-V2 ━━┓
 ┃   Mode: ${mode}
 ┃   User : ${s.OWNER_NAME}
 ┃
-┣━boniphace md new vision 𒈒━➠
-┗━━━𒈒by Boniphace Tech𒈒━━┛\n\n`;
+┣━mselachui md new vision 𒈒━➠
+┗━━━𒈒by mselachui Tech𒈒━━┛\n\n`;
 
 
     
 
 let menuMsg = `
 ┏━━━━━━━━━━━━━━┓
-┣❏boniphace md  
-┣❏by Boniphace Tech
+┣❏mselachui md  
+┣❏by Mselachui Tech
 ┗━━━━━━━━━━━━━━┛\n
 
 
 
 
-boniphace md cmds𒈒
+mselachui md cmds𒈒
 `;
 
 
@@ -97,7 +97,7 @@ boniphace md cmds𒈒
         for (const cmd of coms[cat]) {
 
             menuMsg += `
-┃💫 ${cmd}`;
+┃🪄 ${cmd}`;
 
         }
 
@@ -112,13 +112,13 @@ boniphace md cmds𒈒
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏boniphace md bot 
-┣❏by boniphace Tech 
+️┣❏mselachui md bot 
+┣❏by mselachui Tech 
 ┗━━━━━━━━━━━━━━┛\n
 
 
 ┏━━━━━━━━━━━━━━┓
-┃powered by boniphace Tech 
+┃powered by mselachui Tech 
 ┗━━━━━━━━━━━━━━┛\n
 
 
@@ -134,7 +134,7 @@ boniphace md cmds𒈒
 
     try {
 
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *BONIPHACE-MD*, déveloper Fredie" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *MSELA-CHUI-V2*, déveloper mselachui" , gifPlayback : true }, { quoted: ms });
 
     }
 
