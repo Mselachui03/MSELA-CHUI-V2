@@ -83,7 +83,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━━━━━━━━┓
-┣🪄 MSELA-CHUI-V2cmds
+┣🐯 MSELA-CHUI-V2cmds
 ┗━━━━━━━━━┛\n
 
 
