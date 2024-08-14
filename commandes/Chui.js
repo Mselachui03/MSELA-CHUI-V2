@@ -98,7 +98,7 @@ let menuMsg = `
         for (const cmd of coms[cat]) {
 
             menuMsg += `
-┃ 🪙 ${cmd}`;
+┃ 🐯 ${cmd}`;
 
         }
 
