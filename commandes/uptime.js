@@ -20,7 +20,7 @@ const runtime = function (seconds) {
 zokou({ nomCom: 'uptime',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '⚙️', 
+    reaction: '🫠', 
     fromMe: 'true', 
 
 
@@ -28,7 +28,7 @@ zokou({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_uptime of boniphace md bot is: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_uptime of MSELA-CHUI-V2 is: ${runtime(process.uptime())}_*`) 
 
    
 
