@@ -28,15 +28,6 @@
   </a>
 </p>
 
-#### Spinning CD Effect
-
-```
-?spin=true
-```
-
-![Preview](https://tthn.pythonanywhere.com?spin=
-
-
  ## MSELA-CHUI-V2 Deployment Methods
 
 ### 1. FORK THIS REPO
