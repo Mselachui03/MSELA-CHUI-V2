@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ MSELA-+CHUI-+V2★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MSELA+CHUI;RELEASED+DATE+13%2A8%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://telegra.ph/file/b5e8a490b30177df71db0.jpg"/> 
+<img src="https://telegra.ph/file/bd7c50339ee358a1b1837.mp4"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{Mselachui03}/count.svg" alt="Mselachui03:: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/Mselachui03/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mselachui03?color=red&style=flat-square"></a>
