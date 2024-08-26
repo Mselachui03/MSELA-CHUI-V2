@@ -97,7 +97,7 @@ mselachui md cmds𒈒
         for (const cmd of coms[cat]) {
 
             menuMsg += `
-┃🪄 ${cmd}`;
+┃🐯 ${cmd}`;
 
         }
 
