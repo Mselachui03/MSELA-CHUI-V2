@@ -83,7 +83,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━━━━━━━━┓
-┣🐯 MSELA-CHUI-V2cmds
+┣🏷️ MSELA-CHUI-V2cmds
 ┗━━━━━━━━━┛\n
 
 
@@ -98,7 +98,7 @@ let menuMsg = `
         for (const cmd of coms[cat]) {
 
             menuMsg += `
-┃ 🐯 ${cmd}`;
+┃ 🇹🇿 ${cmd}`;
 
         }
 
