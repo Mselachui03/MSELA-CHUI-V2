@@ -69,7 +69,7 @@
 * [🧑‍💻 Follow MSELA-CHUI-V2 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VakhqAaLtOjBJOL9Wn1q)
 
 
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/KStfBpcFDOi154eVtrz6n1)
+* [✅ Join Public Group ⚡](https://chat.whatsapp.com/Bktj9P5WyZY1vgWyWvKi4a)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
